@@ -1,0 +1,23 @@
+{
+  "name": "cypress_google_main_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucka-B/Cypress_Google_main_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucka-B/Cypress_Google_main_page/issues"
+  },
+  "homepage": "https://github.com/Lucka-B/Cypress_Google_main_page#readme",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  }
+}
