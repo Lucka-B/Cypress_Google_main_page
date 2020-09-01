@@ -25,3 +25,6 @@ This repository contains test suit which tests all functions on Google main page
     - "Images" link opens image search
     - Google apps icon opens menu with avaiable Google apps
     - clicking user avatar opens menu with managing Google account
+
+## Notes:
+- Due to technical limitations of Cypress, link targets were removed while testing internal links. This means links will not open in new tabs but this is not an issue since there no such links on Google main page.
