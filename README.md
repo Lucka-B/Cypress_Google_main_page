@@ -2,6 +2,7 @@
 This repository contains test suit which tests some functions on Google main page. Reason for doing that is to learn Cypress.
 #### Test cases:
 Internal links
+
 ✔ "Gmail" link opens page with information about Gmail (about)
 
 ✔ "Images" link opens image search
