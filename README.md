@@ -3,8 +3,11 @@ This repository contains test suit which tests some functions on Google main pag
 #### Test cases:
 Internal links
 ✔ "Gmail" link opens page with information about Gmail (about)
+
 ✔ "Images" link opens image search
+
 ✔ Google apps icon opens menu with avaiable Google apps
+
 ✔ "Sign in" button leads to Google sign in page
 
 #### Notes:
